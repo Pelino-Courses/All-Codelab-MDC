@@ -6,8 +6,6 @@ REG NUMBER: 222005360
 
 
 
-
-
 MDC-101 Flutter: Material Components Basics (This codelab is the first of four codelabs that will guide you through building an app called Shrine, an e-commerce app that sells clothing and home goods. It will demonstrate how you can customize components to reflect any brand or style using Material Flutter.
 
 In this codelab, you'll build a login page for Shrine that contains:
