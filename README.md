@@ -1,4 +1,4 @@
-All-Codelab-MDC
+MDC-100 Series of Codelabs
 
 Names: UMUHOZA Amandine Divine
 
